@@ -1,0 +1,1 @@
+{"name":"uhear","version":"0.1.0","private":true,"type":"module","engines":{"node":">=24"},"scripts":{"dev":"node --watch server.mjs","start":"node server.mjs","test":"node --test","build":"node --check server.mjs && node --check public/app.js"}}
